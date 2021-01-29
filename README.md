@@ -1,7 +1,7 @@
 ## Kafka Learnings:
 In order to learn about Kafka, I set up this readme with relevant information on this subject, in addition to some simple Java examples.
 
-Much of the theory and also the implemented examples were taken from this great [course](https://www.udemy.com/home/my-courses/learning/).
+Much of the theory and also the implemented examples were taken from this great [course](https://www.udemy.com/course/apache-kafka/).
 
 ## About Kafka:
 Integrations between different systems can be very complicated and have large amounts of data, making connections slow.
